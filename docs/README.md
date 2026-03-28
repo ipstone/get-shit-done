@@ -17,6 +17,7 @@ Language versions: [English](README.md) · [Português (pt-BR)](pt-BR/README.md)
 | [User Guide](USER-GUIDE.md) | All users | Workflow walkthroughs, troubleshooting, and recovery |
 | [Context Monitor](context-monitor.md) | All users | Context window monitoring hook architecture |
 | [Discuss Mode](workflow-discuss-mode.md) | All users | Assumptions vs interview mode for discuss-phase |
+| [FAQ](FAQ.md) | All users | Common questions: similar tools, model routing, agent selection |
 
 ## Quick Links
 
